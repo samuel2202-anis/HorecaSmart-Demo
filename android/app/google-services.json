@@ -1,0 +1,33 @@
+{
+  "project_info": {
+    "project_number": "26595385082",
+    "project_id": "horeca-7e68d",
+    "storage_bucket": "horeca-7e68d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26595385082:android:7cbdc42d0c472fbb117343",
+        "android_client_info": {
+          "package_name": "com.hs.horecaa_smartt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBnMW7UBzsGER4RvMZJ5WIez-O4hr3fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        },
+        "messaging_service": {
+          "messagingSenderId": "26595385082" 
+        
+      }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

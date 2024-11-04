@@ -35,11 +35,16 @@ A bottom navigation bar is included for seamless navigation between different se
 
 ## Screenshots
 
-![5](https://github.com/samuel2202-anis/AF-Watches/assets/65362048/1124b7ad-756e-48f3-8e37-94eda935cef2)
-![3](https://github.com/samuel2202-anis/AF-Watches/assets/65362048/a0330769-74e5-4489-b22b-879ccddaf322)
-![4](https://github.com/samuel2202-anis/AF-Watches/assets/65362048/331c57d8-93cd-4dc1-971c-9677986e4d6e)
-![22](https://github.com/samuel2202-anis/AF-Watches/assets/65362048/25f1035d-8654-4fed-b266-f1280e44f1cb)
-![2](https://github.com/samuel2202-anis/AF-Watches/assets/65362048/8c8c10f3-839e-40bd-a8f1-81e2160706fd)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/ccd6bfa6-4b20-4821-9fd0-0fe7d73a70ef" alt="Screenshot 1" style="width: 48%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/d9c20330-a138-41ba-9000-a7322c347f39" alt="Screenshot 2" style="width: 48%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/364d60a8-ffc6-4d02-bb10-c80728df1a01" alt="Screenshot 3" style="width: 48%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/1d1b1dc7-5a25-485a-b734-ec988aec5fc1" alt="Screenshot 4" style="width: 48%; height: auto;">
+</div>
+
+
+
+
 
 
 ## Technology Used
